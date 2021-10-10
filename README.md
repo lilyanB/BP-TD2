@@ -6,6 +6,9 @@ Le but du deuxième programme est de générer toutes les informations nécessai
 
 Ce programme va fonctionner de cette manière : 
 
+Vous devez dans un premier temps télécharger le fichier "TD02_Bitcoin_Today_practice.py" et le fichier "english.txt" puis exécuter le fichier "TD02_Bitcoin_Today_practice.py".
+
+Une question va apparaitre.
 Avez vous une seed ? Comprenez par seed d'une phrase mnémonique anglaise de 12 mots de chacun 11 bits. Si oui, vous pouvez répondre "y" à la question "Voulez vous importer votre propre seed ? (y/n)". Lorsque vous avez répondu, une autre question apparait "Entrez votre propre seed :", répondez par votre phrase. Si vous n'êtes pas concerné par cette option et que vous voulez générer un portefeuille aléatoire, répondez "n".
 
 De nombreuses informations vont apparaitre à votre écran. Il s'agit des informations sur l'extension de vos clés privé et publique maitresse après une extension de la norme BIP32. Nous avons choisi de vous communiquer ces informations pour vous assurer de la validité des informations du portefeuille. 
